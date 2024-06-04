@@ -6,4 +6,4 @@ Diese "Issues" sollen nur für Technische Probleme und Fragen benutzt werden. F�
 
 ## Roadmap
 In unserer Roadmap sehen Sie dan Aktuellen stand von Bug-Fixes und Entwicklung neuer Features.
-Und was noch geplant ist. Fehlt ihnen ein Feature können sie ein Ticket mit dem Tag 'Enhancement' Öffnen.
+Und was noch geplant ist. Fehlt ihnen ein Feature können sie ein Ticket mit dem Tag 'Features' Öffnen.
